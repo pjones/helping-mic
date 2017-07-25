@@ -6,3 +6,5 @@ Mount "helping hands" devices to a standard microphone stand.  Or in my case,
 ## Images
 
 ![Mount Adapter](./helping-mic.png)
+
+![With Vide](./with-vice.jpg)
